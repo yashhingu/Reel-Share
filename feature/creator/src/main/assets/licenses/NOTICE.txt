@@ -1,0 +1,17 @@
+ReelShare optional offline captions
+
+Vosk 0.3.75 — Alpha Cephei and contributors
+https://github.com/alphacep/vosk-api
+Apache License 2.0. Unmodified Android library.
+
+Java Native Access 5.18.1 — Timothy Wall and contributors
+https://github.com/java-native-access/jna
+Distributed here under its Apache License 2.0 option.
+
+Optional models (downloaded only after user request):
+vosk-model-small-en-us-0.15
+vosk-model-small-hi-0.22
+Alpha Cephei — Apache License 2.0
+https://alphacephei.com/vosk/models
+
+License texts accompany this notice. Model downloads are SHA-256 pinned.

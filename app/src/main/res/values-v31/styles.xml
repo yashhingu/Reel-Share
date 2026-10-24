@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ReelShare.Splash" parent="Theme.ReelShare">
+        <item name="android:windowSplashScreenBackground">@color/studio_canvas</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/avd_reelshare_splash</item>
+        <item name="android:windowSplashScreenAnimationDuration">450</item>
+        <item name="android:windowBackground">@color/studio_canvas</item>
+    </style>
+</resources>

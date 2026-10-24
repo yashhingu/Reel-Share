@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ReelShare" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/studio_canvas</item>
+        <item name="android:navigationBarColor">@color/studio_canvas</item>
+    </style>
+
+    <style name="Theme.ReelShare.Splash" parent="Theme.ReelShare">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>
